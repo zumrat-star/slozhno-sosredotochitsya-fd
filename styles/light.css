@@ -18,7 +18,6 @@
   --page-heading-color: #353430;
   --nav-hover-color: #35343040;
   --header-logo-color: #ffc2e6;
-  --footer-logo-color: #ffc2e6;
   --page-bg-image: url(../images/cover-image-light.png);
 
   .rec-decor {
@@ -37,7 +36,6 @@
     --page-heading-color: #353430;
     --nav-hover-color: #35343040;
     --header-logo-color: #ffc2e6;
-    --footer-logo-color: #ffc2e6;
     --page-bg-image: url(../images/cover-image-light.png);
   }
 
